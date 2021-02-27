@@ -1,4 +1,4 @@
 Push verification
 requirement
-Push 			requirement password verification
+Push verification requirement password 
 Push without  verification
