@@ -1,4 +1,4 @@
 alo
 Push without requirement verification
-Push requirement verification
+Push requirement password verification
 Push without requirement verification
